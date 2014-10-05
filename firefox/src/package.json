@@ -1,0 +1,9 @@
+{
+  "name": "tinyurl",
+  "title": "tinyurl",
+  "id": "jid1-PzkPaFGUcmDFNg",
+  "description": "add-on for generating short utl",
+  "author": "rxwen",
+  "license": "Apache License 2.0",
+  "version": "0.9"
+}
